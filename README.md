@@ -26,5 +26,6 @@ Patients diagnosed with childhood onset GHD (prevalent cases only) were only inc
 ## Broader GHD case definition
 This comprised; patients with a recorded diagnosis of [GHD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c0998ff70f0b96d5a5513556d80f141da01044c4/Conditions/GHD%20(Growth%20Hormone%20Deficiency)) plus patients with a diagnosis of [hypopituitarism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c0998ff70f0b96d5a5513556d80f141da01044c4/Conditions/Hypopituitarism) with or without recorded prescriptions for [levothyroxine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c0998ff70f0b96d5a5513556d80f141da01044c4/Treatments/Thyroid%20Hormones) and steroid treatments ([oral hydrocortisone](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ee0f37fe7ff624dbf8a4aac9016d29ef9cce8938/Treatments/Oral%20Hydrocortisone) **OR** [oral prednisolone](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ee0f37fe7ff624dbf8a4aac9016d29ef9cce8938/Treatments/Oral%20Prednisolone)).
 
+# Supplementary Materials
 
 
